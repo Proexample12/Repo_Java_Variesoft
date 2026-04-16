@@ -82,7 +82,7 @@ seguimiento de las ventas y el inventario en tiempo real.
 • Gestión de Datos: La necesidad de digitalizar las operaciones críticas como las
 bases de datos de clientes y la emisión de facturación.
 
-## 2. Objetivos del Sistema (Adaptados al Código Java)
+## 2. Objetivos del Sistema 
 La implementación técnica que hemos desarrollado en Java busca cumplir con los objetivos
 estratégicos del proyecto original:
 • Automatización de Facturación: El sistema permite generar facturas de venta con
